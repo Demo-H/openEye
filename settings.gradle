@@ -1,0 +1,13 @@
+include ':module-community'
+include ':module-player'
+include ':module-more'
+include ':module-main'
+include ':module-home'
+include ':module-user'
+include ':lib-common'
+include ':lib-base'
+include ':lib-video'
+include ':lib-servicemanager'
+include ':lib-network'
+include ':app'
+rootProject.name = "OpenEye"
